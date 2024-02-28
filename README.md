@@ -1,6 +1,7 @@
 
 
 # 快速生成一次性电子邮件。
+原项目地址 [Mailsy](https://github.com/BalliAsghar/Mailsy)
 
 ## 屏幕截图
 
